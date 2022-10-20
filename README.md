@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dan!
-- Please check out my Portfolio website at Danguns.ca
+- Please check out my Portfolio website at [Danguns.ca](https://danguns.ca/)
 - 👀 I’m interested in application development and web design.
 - 🌱 I’m currently learning IT Programming at NSCC.
 
