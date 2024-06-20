@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan!
 - Please check out my Portfolio website at [Danguns.ca](https://danguns.ca/)
 - 👀 I’m interested in application development, software development, and DevOps.
-- 🌱 I’m currently learning IT Programming at NSCC.
+- 🌱 I am a DevOps and support Analyst.
 
 - 📫 How to reach me danbguns@gmail.com
 
