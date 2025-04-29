@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Dan!
 - Please check out my Portfolio website at [Danguns.ca](https://danguns.ca/)
-- 👀 I’m interested in application development, software development, and DevOps.
-- 🌱 I am a DevOps and support Analyst at Aptitude Digital.
-
+- 👀 I’m interested in Kubernetes, software development, and DevOps.
+- 🌱 I am a Kubernetes Platform Engineer at RBC.
 - 📫 How to reach me danbguns@gmail.com
 
 <!---
