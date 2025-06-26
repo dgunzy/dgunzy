@@ -2,7 +2,7 @@
 - Please check out my Portfolio website at [Danguns.ca](https://danguns.ca/)
 - 👀 I’m interested in Kubernetes, software development, and DevOps.
 - 🌱 I am a Kubernetes Platform Engineer at RBC.
-- 📫 How to reach me danbguns@gmail.com
+
 
 <!---
 dgunzy/dgunzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
