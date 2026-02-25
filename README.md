@@ -1,7 +1,11 @@
-- 👋 Hi, I’m Dan!
-- Please check out my Portfolio website at [Danguns.ca](https://danguns.ca/)
-- 👀 I’m interested in Kubernetes, software development, and DevOps.
-- 🌱 I am a Kubernetes Platform Engineer at RBC.
+Platform Engineer at RBC Capital Markets, focused on Kubernetes, GitOps, and cloud-native infrastructure.
+
+- 🛠️ Creator & maintainer of [flux9s](https://flux9s.ca/) — a terminal UI for Flux, built in Rust
+- 🔁 Regular contributor to [Flux](https://github.com/fluxcd) & [Flux Operator](https://github.com/controlplaneio-fluxcd/flux-operator)
+- ☸️ Deep into Kubernetes, GitOps, and platform engineering
+- 🌊 Based in Nova Scotia, Canada
+
+[![Portfolio](https://img.shields.io/badge/danguns.ca-portfolio-blue)](https://danguns.ca/)
 
 
 <!---
